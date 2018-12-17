@@ -1,0 +1,2 @@
+[PT] Projeto de uma rede de transmissão utilizando algoritmos de grafos, desenho computacional e framework de interfaces Qt. (Projeto desenvolvido com o Qt Creator)
+[EN] Design of a transmission network using graph algorithms, computational drawing and Qt interfaces framework (Project developed with Qt Creator)
